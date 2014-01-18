@@ -31,9 +31,8 @@ Using flippy.js
 Invoking the flippy plugin:
 
 ```
-$.flippy();
+$('element').flippy();
 ```
-
 
 Options
 -------
