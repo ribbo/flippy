@@ -6,7 +6,7 @@ Simple rotating text jQuery plugin
 Demo
 ----
 
-A demo of the plugin in action can be found <a href="http://.com/flippy">here</a>.
+I will upload a demo soon.
 
 
 Installation
