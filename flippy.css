@@ -1,0 +1,12 @@
+.flippy {
+    position: relative;
+}
+.flippy > * {
+    position: absolute;
+    opacity: 0;
+    top: -50px;
+}
+.flippy > *:first-child {
+    opacity: 1;
+    top: 0;
+}
